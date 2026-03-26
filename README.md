@@ -21,3 +21,15 @@ I focused heavily on the 1- and 2-star reviews (~700 in total). Here is what sto
 
 ### Top Complaints Chart
 
+<img width="794" height="450" alt="newplot" src="https://github.com/user-attachments/assets/7903e988-a90c-4049-bfee-ffd60ab93730" />
+
+
+
+
+
+
+
+
+
+
+
